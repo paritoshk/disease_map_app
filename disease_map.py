@@ -172,7 +172,7 @@ with st.expander("Click Here"):
 page_bg_img = """
 <style>
 .stApp {
-background-image: url("https://images.unsplash.com/photo-1474432978580-3d2a63f706e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2369&q=80");
+background-image: url("https://images.unsplash.com/photo-1576086213369-97a306d36557?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80");
 background-size: cover;
 }
 </style>
